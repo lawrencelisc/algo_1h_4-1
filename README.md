@@ -20,14 +20,14 @@
 
     Ubuntu 20.04 (Debian-based Linux)
     ```shell script
-    cd ./algo_10m_v2
+    cd ./algo_1h_4-1
     python3.12 -m venv venv/
     source ./venv/bin/activate
     ```
    
     Windows 10
     ```shell script
-    cd .\algo_10m_v2
+    cd .\algo_1h_4-1
     python -m venv .\venv\
     .\venv\Scripts\activate
     ```
@@ -46,23 +46,23 @@
 #### Dev Environment
 1. Run the application
     ```shell script
-    python3.12 main.py
+    python3.12 main_entry.py
     ```
 
 #### Running via Systemd
 1. Move the file to Systemd's system folder.
     ```shell script
-    sudo cp ./algo_10m_v2.service /etc/systemd/system/algo_10m_v2.service
+    sudo cp ./algo_1h_4-1.service /etc/systemd/system/algo_1h_4-1.service
     ```
 2. Enable and start the service.
     ```shell script
     sudo systemctl daemon-reload
-    sudo systemctl enable algo_10m_v2.service
-    sudo systemctl start algo_10m_v2.service
+    sudo systemctl enable algo_1h_4-1.service
+    sudo systemctl start algo_1h_4-1.service
     ```
 3. Check if the application is running.
     ```shell script
-    sudo systemctl status algo_10m_v2.service
+    sudo systemctl status algo_1h_4-1.service
     ```
 # web_scrapping_2025-08-27
 # algo_1h_4-1
