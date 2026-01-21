@@ -145,7 +145,7 @@ if __name__ == '__main__':
         scheduler_executed = False
 
         for attempt in range(max_attempts):
-            xx_min = 30 + (attempt * 5)  # :30, :35, :40, :45, :50
+            xx_min = 30 + (attempt * 6)  # :30, :35, :40, :45, :50, :55
 
             # Wait until the target minute if we're not there yet
             while True:
