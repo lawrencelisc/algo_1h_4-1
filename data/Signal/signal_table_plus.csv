@@ -1,0 +1,85 @@
+date,date_s1,name,symbol,saved_csv,signal,signal_s1,signal_plus
+2026-01-20 12:00:00,2026-01-20 12:00:00,103_entities_supply_balance_1k_10k,BTC,103_entities_supply_balance_1k_10k_v_BTC.csv,1,0,01
+2026-01-20 12:00:00,2026-01-20 12:00:00,104_entities_supply_balance_10k_100k_pit,BTC,104_entities_supply_balance_10k_100k_pit_v_BTC.csv,1,0,01
+2026-01-20 12:00:00,2026-01-20 12:00:00,105_derivatives_futures_volume_daily_sum,BTC,105_derivatives_futures_volume_daily_sum_v_BTC.csv,0,0,00
+2026-01-20 12:00:00,2026-01-20 12:00:00,109_breakdowns_mvrv_by_age,ETH,109_breakdowns_mvrv_by_age_1d_1w_ETH.csv,-1,0,0-1
+2026-01-20 12:00:00,2026-01-20 12:00:00,111_market_price_usd_ohlc,ETH,111_market_price_usd_ohlc_c_ETH.csv,0,0,00
+2026-01-20 12:00:00,2026-01-20 12:00:00,113_derivatives_futures_volume_daily_sum_all,ETH,113_derivatives_futures_volume_daily_sum_all_crypto.com_ETH.csv,1,0,01
+2026-01-20 12:00:00,2026-01-20 12:00:00,103_entities_supply_balance_1k_10k,BTC,103_entities_supply_balance_1k_10k_v_BTC.csv,1,0,01
+2026-01-20 12:00:00,2026-01-20 12:00:00,104_entities_supply_balance_10k_100k_pit,BTC,104_entities_supply_balance_10k_100k_pit_v_BTC.csv,1,0,01
+2026-01-20 13:00:00,2026-01-20 13:00:00,105_derivatives_futures_volume_daily_sum,BTC,105_derivatives_futures_volume_daily_sum_v_BTC.csv,0,0,00
+2026-01-20 13:00:00,2026-01-20 13:00:00,109_breakdowns_mvrv_by_age,ETH,109_breakdowns_mvrv_by_age_1d_1w_ETH.csv,-1,0,0-1
+2026-01-20 13:00:00,2026-01-20 13:00:00,111_market_price_usd_ohlc,ETH,111_market_price_usd_ohlc_c_ETH.csv,0,0,00
+2026-01-20 13:00:00,2026-01-20 13:00:00,113_derivatives_futures_volume_daily_sum_all,ETH,113_derivatives_futures_volume_daily_sum_all_crypto.com_ETH.csv,1,0,01
+2026-01-20 14:00:00,2026-01-20 14:00:00,103_entities_supply_balance_1k_10k,BTC,103_entities_supply_balance_1k_10k_v_BTC.csv,1,0,01
+2026-01-20 14:00:00,2026-01-20 14:00:00,104_entities_supply_balance_10k_100k_pit,BTC,104_entities_supply_balance_10k_100k_pit_v_BTC.csv,1,0,01
+2026-01-20 14:00:00,2026-01-20 14:00:00,105_derivatives_futures_volume_daily_sum,BTC,105_derivatives_futures_volume_daily_sum_v_BTC.csv,0,0,00
+2026-01-20 14:00:00,2026-01-20 14:00:00,109_breakdowns_mvrv_by_age,ETH,109_breakdowns_mvrv_by_age_1d_1w_ETH.csv,-1,0,0-1
+2026-01-20 14:00:00,2026-01-20 14:00:00,111_market_price_usd_ohlc,ETH,111_market_price_usd_ohlc_c_ETH.csv,0,0,00
+2026-01-20 14:00:00,2026-01-20 14:00:00,113_derivatives_futures_volume_daily_sum_all,ETH,113_derivatives_futures_volume_daily_sum_all_crypto.com_ETH.csv,1,0,01
+2026-01-20 15:00:00,2026-01-20 14:00:00,103_entities_supply_balance_1k_10k,BTC,103_entities_supply_balance_1k_10k_v_BTC.csv,1,1,11
+2026-01-20 15:00:00,2026-01-20 14:00:00,104_entities_supply_balance_10k_100k_pit,BTC,104_entities_supply_balance_10k_100k_pit_v_BTC.csv,1,1,11
+2026-01-20 15:00:00,2026-01-20 14:00:00,105_derivatives_futures_volume_daily_sum,BTC,105_derivatives_futures_volume_daily_sum_v_BTC.csv,0,0,00
+2026-01-20 15:00:00,2026-01-20 14:00:00,109_breakdowns_mvrv_by_age,ETH,109_breakdowns_mvrv_by_age_1d_1w_ETH.csv,-1,-1,-1-1
+2026-01-20 15:00:00,2026-01-20 14:00:00,111_market_price_usd_ohlc,ETH,111_market_price_usd_ohlc_c_ETH.csv,0,0,00
+2026-01-20 15:00:00,2026-01-20 14:00:00,113_derivatives_futures_volume_daily_sum_all,ETH,113_derivatives_futures_volume_daily_sum_all_crypto.com_ETH.csv,1,1,11
+2026-01-20 16:00:00,2026-01-20 15:00:00,103_entities_supply_balance_1k_10k,BTC,103_entities_supply_balance_1k_10k_v_BTC.csv,1,1,11
+2026-01-20 16:00:00,2026-01-20 15:00:00,104_entities_supply_balance_10k_100k_pit,BTC,104_entities_supply_balance_10k_100k_pit_v_BTC.csv,1,1,11
+2026-01-20 16:00:00,2026-01-20 15:00:00,105_derivatives_futures_volume_daily_sum,BTC,105_derivatives_futures_volume_daily_sum_v_BTC.csv,0,0,00
+2026-01-20 16:00:00,2026-01-20 15:00:00,109_breakdowns_mvrv_by_age,ETH,109_breakdowns_mvrv_by_age_1d_1w_ETH.csv,-1,-1,-1-1
+2026-01-20 16:00:00,2026-01-20 15:00:00,111_market_price_usd_ohlc,ETH,111_market_price_usd_ohlc_c_ETH.csv,0,0,00
+2026-01-20 16:00:00,2026-01-20 15:00:00,113_derivatives_futures_volume_daily_sum_all,ETH,113_derivatives_futures_volume_daily_sum_all_crypto.com_ETH.csv,1,1,11
+2026-01-20 17:00:00,2026-01-20 16:00:00,103_entities_supply_balance_1k_10k,BTC,103_entities_supply_balance_1k_10k_v_BTC.csv,1,1,11
+2026-01-20 17:00:00,2026-01-20 16:00:00,104_entities_supply_balance_10k_100k_pit,BTC,104_entities_supply_balance_10k_100k_pit_v_BTC.csv,1,1,11
+2026-01-20 17:00:00,2026-01-20 16:00:00,105_derivatives_futures_volume_daily_sum,BTC,105_derivatives_futures_volume_daily_sum_v_BTC.csv,0,0,00
+2026-01-20 17:00:00,2026-01-20 16:00:00,109_breakdowns_mvrv_by_age,ETH,109_breakdowns_mvrv_by_age_1d_1w_ETH.csv,-1,-1,-1-1
+2026-01-20 17:00:00,2026-01-20 16:00:00,111_market_price_usd_ohlc,ETH,111_market_price_usd_ohlc_c_ETH.csv,0,0,00
+2026-01-20 17:00:00,2026-01-20 16:00:00,113_derivatives_futures_volume_daily_sum_all,ETH,113_derivatives_futures_volume_daily_sum_all_crypto.com_ETH.csv,1,1,11
+2026-01-20 18:00:00,2026-01-20 17:00:00,103_entities_supply_balance_1k_10k,BTC,103_entities_supply_balance_1k_10k_v_BTC.csv,1,1,11
+2026-01-20 18:00:00,2026-01-20 17:00:00,104_entities_supply_balance_10k_100k_pit,BTC,104_entities_supply_balance_10k_100k_pit_v_BTC.csv,1,1,11
+2026-01-20 18:00:00,2026-01-20 17:00:00,105_derivatives_futures_volume_daily_sum,BTC,105_derivatives_futures_volume_daily_sum_v_BTC.csv,0,0,00
+2026-01-20 18:00:00,2026-01-20 17:00:00,109_breakdowns_mvrv_by_age,ETH,109_breakdowns_mvrv_by_age_1d_1w_ETH.csv,-1,-1,-1-1
+2026-01-20 18:00:00,2026-01-20 17:00:00,111_market_price_usd_ohlc,ETH,111_market_price_usd_ohlc_c_ETH.csv,0,0,00
+2026-01-20 18:00:00,2026-01-20 17:00:00,113_derivatives_futures_volume_daily_sum_all,ETH,113_derivatives_futures_volume_daily_sum_all_crypto.com_ETH.csv,1,1,11
+2026-01-20 19:00:00,2026-01-20 18:00:00,103_entities_supply_balance_1k_10k,BTC,103_entities_supply_balance_1k_10k_v_BTC.csv,1,1,11
+2026-01-20 19:00:00,2026-01-20 18:00:00,104_entities_supply_balance_10k_100k_pit,BTC,104_entities_supply_balance_10k_100k_pit_v_BTC.csv,1,1,11
+2026-01-20 19:00:00,2026-01-20 18:00:00,105_derivatives_futures_volume_daily_sum,BTC,105_derivatives_futures_volume_daily_sum_v_BTC.csv,0,0,00
+2026-01-20 19:00:00,2026-01-20 18:00:00,109_breakdowns_mvrv_by_age,ETH,109_breakdowns_mvrv_by_age_1d_1w_ETH.csv,-1,-1,-1-1
+2026-01-20 19:00:00,2026-01-20 18:00:00,111_market_price_usd_ohlc,ETH,111_market_price_usd_ohlc_c_ETH.csv,0,0,00
+2026-01-20 19:00:00,2026-01-20 18:00:00,113_derivatives_futures_volume_daily_sum_all,ETH,113_derivatives_futures_volume_daily_sum_all_crypto.com_ETH.csv,1,1,11
+2026-01-20 20:00:00,2026-01-20 19:00:00,103_entities_supply_balance_1k_10k,BTC,103_entities_supply_balance_1k_10k_v_BTC.csv,1,1,11
+2026-01-20 20:00:00,2026-01-20 19:00:00,104_entities_supply_balance_10k_100k_pit,BTC,104_entities_supply_balance_10k_100k_pit_v_BTC.csv,1,1,11
+2026-01-20 20:00:00,2026-01-20 19:00:00,105_derivatives_futures_volume_daily_sum,BTC,105_derivatives_futures_volume_daily_sum_v_BTC.csv,0,0,00
+2026-01-20 20:00:00,2026-01-20 19:00:00,109_breakdowns_mvrv_by_age,ETH,109_breakdowns_mvrv_by_age_1d_1w_ETH.csv,-1,-1,-1-1
+2026-01-20 20:00:00,2026-01-20 19:00:00,111_market_price_usd_ohlc,ETH,111_market_price_usd_ohlc_c_ETH.csv,0,0,00
+2026-01-20 20:00:00,2026-01-20 19:00:00,113_derivatives_futures_volume_daily_sum_all,ETH,113_derivatives_futures_volume_daily_sum_all_crypto.com_ETH.csv,1,1,11
+2026-01-20 21:00:00,2026-01-20 20:00:00,103_entities_supply_balance_1k_10k,BTC,103_entities_supply_balance_1k_10k_v_BTC.csv,1,1,11
+2026-01-20 21:00:00,2026-01-20 20:00:00,104_entities_supply_balance_10k_100k_pit,BTC,104_entities_supply_balance_10k_100k_pit_v_BTC.csv,1,1,11
+2026-01-20 21:00:00,2026-01-20 20:00:00,105_derivatives_futures_volume_daily_sum,BTC,105_derivatives_futures_volume_daily_sum_v_BTC.csv,0,0,00
+2026-01-20 21:00:00,2026-01-20 20:00:00,109_breakdowns_mvrv_by_age,ETH,109_breakdowns_mvrv_by_age_1d_1w_ETH.csv,-1,-1,-1-1
+2026-01-20 21:00:00,2026-01-20 20:00:00,111_market_price_usd_ohlc,ETH,111_market_price_usd_ohlc_c_ETH.csv,0,0,00
+2026-01-20 21:00:00,2026-01-20 20:00:00,113_derivatives_futures_volume_daily_sum_all,ETH,113_derivatives_futures_volume_daily_sum_all_crypto.com_ETH.csv,1,1,11
+2026-01-20 22:00:00,2026-01-20 21:00:00,103_entities_supply_balance_1k_10k,BTC,103_entities_supply_balance_1k_10k_v_BTC.csv,1,1,11
+2026-01-20 22:00:00,2026-01-20 21:00:00,104_entities_supply_balance_10k_100k_pit,BTC,104_entities_supply_balance_10k_100k_pit_v_BTC.csv,1,1,11
+2026-01-20 22:00:00,2026-01-20 21:00:00,105_derivatives_futures_volume_daily_sum,BTC,105_derivatives_futures_volume_daily_sum_v_BTC.csv,0,0,00
+2026-01-20 22:00:00,2026-01-20 21:00:00,109_breakdowns_mvrv_by_age,ETH,109_breakdowns_mvrv_by_age_1d_1w_ETH.csv,-1,-1,-1-1
+2026-01-20 22:00:00,2026-01-20 21:00:00,111_market_price_usd_ohlc,ETH,111_market_price_usd_ohlc_c_ETH.csv,0,0,00
+2026-01-20 22:00:00,2026-01-20 21:00:00,113_derivatives_futures_volume_daily_sum_all,ETH,113_derivatives_futures_volume_daily_sum_all_crypto.com_ETH.csv,1,1,11
+2026-01-20 23:00:00,2026-01-20 22:00:00,103_entities_supply_balance_1k_10k,BTC,103_entities_supply_balance_1k_10k_v_BTC.csv,1,1,11
+2026-01-20 23:00:00,2026-01-20 22:00:00,104_entities_supply_balance_10k_100k_pit,BTC,104_entities_supply_balance_10k_100k_pit_v_BTC.csv,1,1,11
+2026-01-20 23:00:00,2026-01-20 22:00:00,105_derivatives_futures_volume_daily_sum,BTC,105_derivatives_futures_volume_daily_sum_v_BTC.csv,0,0,00
+2026-01-20 23:00:00,2026-01-20 22:00:00,109_breakdowns_mvrv_by_age,ETH,109_breakdowns_mvrv_by_age_1d_1w_ETH.csv,-1,-1,-1-1
+2026-01-20 23:00:00,2026-01-20 22:00:00,111_market_price_usd_ohlc,ETH,111_market_price_usd_ohlc_c_ETH.csv,0,0,00
+2026-01-20 23:00:00,2026-01-20 22:00:00,113_derivatives_futures_volume_daily_sum_all,ETH,113_derivatives_futures_volume_daily_sum_all_crypto.com_ETH.csv,1,1,11
+2026-01-21,2026-01-20 23:00:00,103_entities_supply_balance_1k_10k,BTC,103_entities_supply_balance_1k_10k_v_BTC.csv,1,1,11
+2026-01-21,2026-01-20 23:00:00,104_entities_supply_balance_10k_100k_pit,BTC,104_entities_supply_balance_10k_100k_pit_v_BTC.csv,1,1,11
+2026-01-21,2026-01-20 23:00:00,105_derivatives_futures_volume_daily_sum,BTC,105_derivatives_futures_volume_daily_sum_v_BTC.csv,0,0,00
+2026-01-21,2026-01-20 23:00:00,109_breakdowns_mvrv_by_age,ETH,109_breakdowns_mvrv_by_age_1d_1w_ETH.csv,-1,-1,-1-1
+2026-01-21,2026-01-20 23:00:00,111_market_price_usd_ohlc,ETH,111_market_price_usd_ohlc_c_ETH.csv,0,0,00
+2026-01-21,2026-01-20 23:00:00,113_derivatives_futures_volume_daily_sum_all,ETH,113_derivatives_futures_volume_daily_sum_all_crypto.com_ETH.csv,1,1,11
+2026-01-21 02:00:00,2026-01-21,103_entities_supply_balance_1k_10k,BTC,103_entities_supply_balance_1k_10k_v_BTC.csv,1,1,11
+2026-01-21 02:00:00,2026-01-21,104_entities_supply_balance_10k_100k_pit,BTC,104_entities_supply_balance_10k_100k_pit_v_BTC.csv,1,1,11
+2026-01-21 02:00:00,2026-01-21,105_derivatives_futures_volume_daily_sum,BTC,105_derivatives_futures_volume_daily_sum_v_BTC.csv,0,0,00
+2026-01-21 02:00:00,2026-01-21,109_breakdowns_mvrv_by_age,ETH,109_breakdowns_mvrv_by_age_1d_1w_ETH.csv,-1,-1,-1-1
+2026-01-21 02:00:00,2026-01-21,111_market_price_usd_ohlc,ETH,111_market_price_usd_ohlc_c_ETH.csv,0,0,00
+2026-01-21 02:00:00,2026-01-21,113_derivatives_futures_volume_daily_sum_all,ETH,113_derivatives_futures_volume_daily_sum_all_crypto.com_ETH.csv,1,1,11

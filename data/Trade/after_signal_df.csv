@@ -1,0 +1,13 @@
+date,date_s1,name,symbol,saved_csv,signal,signal_s1,signal_plus
+2026-01-20 12:00:00,2026-01-20 12:00:00,103_entities_supply_balance_1k_10k,BTC,103_entities_supply_balance_1k_10k_v_BTC.csv,1,0,01
+2026-01-20 12:00:00,2026-01-20 12:00:00,104_entities_supply_balance_10k_100k_pit,BTC,104_entities_supply_balance_10k_100k_pit_v_BTC.csv,1,0,01
+2026-01-20 12:00:00,2026-01-20 12:00:00,113_derivatives_futures_volume_daily_sum_all,ETH,113_derivatives_futures_volume_daily_sum_all_crypto.com_ETH.csv,1,0,01
+2026-01-20 12:00:00,2026-01-20 12:00:00,109_breakdowns_mvrv_by_age,ETH,109_breakdowns_mvrv_by_age_1d_1w_ETH.csv,-1,0,0-1
+2026-01-20 12:00:00,2026-01-20 12:00:00,103_entities_supply_balance_1k_10k,BTC,103_entities_supply_balance_1k_10k_v_BTC.csv,1,0,01
+2026-01-20 12:00:00,2026-01-20 12:00:00,104_entities_supply_balance_10k_100k_pit,BTC,104_entities_supply_balance_10k_100k_pit_v_BTC.csv,1,0,01
+2026-01-20 13:00:00,2026-01-20 13:00:00,113_derivatives_futures_volume_daily_sum_all,ETH,113_derivatives_futures_volume_daily_sum_all_crypto.com_ETH.csv,1,0,01
+2026-01-20 13:00:00,2026-01-20 13:00:00,109_breakdowns_mvrv_by_age,ETH,109_breakdowns_mvrv_by_age_1d_1w_ETH.csv,-1,0,0-1
+2026-01-20 14:00:00,2026-01-20 14:00:00,103_entities_supply_balance_1k_10k,BTC,103_entities_supply_balance_1k_10k_v_BTC.csv,1,0,01
+2026-01-20 14:00:00,2026-01-20 14:00:00,104_entities_supply_balance_10k_100k_pit,BTC,104_entities_supply_balance_10k_100k_pit_v_BTC.csv,1,0,01
+2026-01-20 14:00:00,2026-01-20 14:00:00,113_derivatives_futures_volume_daily_sum_all,ETH,113_derivatives_futures_volume_daily_sum_all_crypto.com_ETH.csv,1,0,01
+2026-01-20 14:00:00,2026-01-20 14:00:00,109_breakdowns_mvrv_by_age,ETH,109_breakdowns_mvrv_by_age_1d_1w_ETH.csv,-1,0,0-1
