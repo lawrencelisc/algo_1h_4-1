@@ -1,0 +1,2 @@
+name,symbol,endpt_col,strat,mode,short_rol,long_rol,rol,thres,num_std,url
+103_entities_supply_balance_1k_10k,BTC,v,ma_cross,long,28,200,,,,https://api.glassnode.com/v1/metrics/entities/supply_balance_1k_10k
