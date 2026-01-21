@@ -141,33 +141,42 @@ if __name__ == '__main__':
 
 
     def check_n_run():
-        max_attempts = 5
+        max_attempts = 8
         scheduler_executed = False
 
-        for attempt in range(max_attempts):
-            xx_min = 30 + (attempt * 6)  # :30, :35, :40, :45, :50, :55
+        # 計算起始時間的 Unix timestamp（當前小時的 :30）
+        now = datetime.now()
+        start_time = now.replace(minute=30, second=0, microsecond=0)
+        if now.minute < 30:
+            start_time = start_time - timedelta(hours=1)
 
-            # Wait until the target minute if we're not there yet
+        start_timestamp = int(start_time.timestamp())
+
+        for attempt in range(max_attempts):
+            # 計算目標時間戳（每次增加 5 分鐘 = 300 秒）
+            target_timestamp = start_timestamp + (attempt * 300)
+
+            # 等待直到目標時間
             while True:
-                current_min = datetime.now().minute
-                if current_min == xx_min:
-                    break
-                # If we've passed this minute, skip to the check
-                if current_min > xx_min:
+                current_timestamp = int(time.time())
+                if current_timestamp >= target_timestamp:
                     break
                 time.sleep(1)
 
-            logger.info(f'Verify gn_10m_status at minute :{xx_min:02d} (attempt {attempt + 1}/{max_attempts})')
+            # 轉換回可讀時間用於日誌
+            target_datetime = datetime.fromtimestamp(target_timestamp)
+            target_min = target_datetime.minute
+
+            logger.info(f'Verify gn_10m_status at minute :{target_min:02d} (attempt {attempt + 1}/{max_attempts})')
 
             if gn_10m_status():
-                logger.info(f'Verify gn_10m_status() all (True) at minute :{xx_min:02d}, running scheduler')
+                logger.info(f'Verify gn_10m_status() all (True) at minute :{target_min:02d}, running scheduler')
                 scheduler(BET_SIZE)
                 scheduler_executed = True
                 break
             else:
-                logger.info(f'Verify gn_10m_status() all (False) at minute :{xx_min:02d}')
+                logger.info(f'Verify gn_10m_status() all (False) at minute :{target_min:02d}')
 
-        # Max attempts reached without success
         if not scheduler_executed:
             logger.warning(f'Max attempts ({max_attempts}) reached, gn_10m_status() never returned True')
             logger.warning(f'Skipping scheduler execution this hour, will retry at next hour :30')
